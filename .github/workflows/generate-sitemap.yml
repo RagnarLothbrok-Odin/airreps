@@ -18,7 +18,7 @@ jobs:
         id: sitemap
         uses: cicirello/generate-sitemap@v1
         with:
-          base-url-path: 'https://airpodsreplicas.com/'
+          base-url-path: 'https://airpodsreplicas.com'
       - name: Output stats
         run: |
           echo "sitemap-path = ${{ steps.sitemap.outputs.sitemap-path }}"
