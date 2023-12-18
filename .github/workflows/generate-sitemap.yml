@@ -18,7 +18,7 @@ jobs:
         id: sitemap
         uses: cicirello/generate-sitemap@v1
         with:
-          base-url-path: 'https://airpodsreplicas.com'
+          base-url-path: 'https://valhalladev.org/sitemap.xml'
       - name: Output stats
         run: |
           echo "sitemap-path = ${{ steps.sitemap.outputs.sitemap-path }}"
@@ -37,6 +37,3 @@ jobs:
           committer: Ragnar Lothbrok <ragnarlothbrokjr@proton.me>
           branch: create-pull-request/sitemap
           delete-branch: true
-      - name: Output Markdown Files
-        run: |
-          find docs -name '*.md' -print0 | xargs -0 cat
