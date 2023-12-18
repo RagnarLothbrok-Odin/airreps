@@ -20,7 +20,6 @@ jobs:
         uses: cicirello/generate-sitemap@v1
         with:
           base-url-path: https://airpodsreplicas.com/
-          sitemap-path: /docs/public
 
       - name: Output stats
         run: |

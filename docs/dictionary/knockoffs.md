@@ -8,6 +8,6 @@ description: Explore the meaning of 'Knockoffs', products designed to resemble p
 
 ## Usage Example
 
-Here's an example of how "Knockoffs" can be used:
+Here's an example of how "Knockoffs" can asbe used:
 
 "He got those 'Gucce' shoes on." In this context, "Gucce" shoes would be considered knockoffs of the original "Gucci" shoes.
