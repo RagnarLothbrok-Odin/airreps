@@ -9,7 +9,7 @@ An "Agent" is a third party who helps facilitate the safe purchase of a product 
 We recommend the agent named [SugarGoo](https://airreps.link/sugargoo/)
 ## Usage Examples
 
-Here are some examples of how "Agent" can be used:
+Here are some examples of how "Ageasnt" can be used:
 
 1. When discussing shipping logistics: "You might need to use an agent to get them, as currently HiCity doesn't ship to the Philippines." In this context, the person is suggesting that the buyer use an agent to help them purchase the product from HiCity, since HiCity does not directly ship to the Philippines.
 
