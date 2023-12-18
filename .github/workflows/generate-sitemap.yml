@@ -18,12 +18,10 @@ jobs:
         id: sitemap
         uses: cicirello/generate-sitemap@v1
         with:
-          base-url-path: 'https://valhalladev.org/'
+          base-url-path: 'https://airpodsreplicas.com/'
       - name: Output stats
         run: |
-          echo "sitemap-path = ${{ steps.sitemap.outputs.sitemap-path }}"
-          echo "url-count = ${{ steps.sitemap.outputs.url-count }}"
-          echo "excluded-count = ${{ steps.sitemap.outputs.excluded-count }}"
+          echo "${{ steps.sitemap.outputs }}"
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5.0.2
         with:
