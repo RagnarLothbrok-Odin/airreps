@@ -21,7 +21,7 @@ jobs:
           base-url-path: 'https://airpodsreplicas.com/'
       - name: Output stats
         run: |
-          echo "${{ steps.sitemap.outputs }}"
+          echo "${{ steps.sitemap.outputs | toYaml | indent(2) }}"
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5.0.2
         with:
