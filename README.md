@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://share.valhalladev.org/u/DiscordGPT.png" width="100%" alt="DiscordGPT Banner">
+  <img id="readme-top" src="https://share.valhalladev.org/u/DiscordGPT.png" width="100%" alt="DiscordGPT Banner">
 
-# waga
+# 🤖 DiscordGPT: The Ultimate AI Companion for Your Server 🚀
 
   <p>
     <a href="https://discord.gg/Q3ZhdRJ"><img src="https://img.shields.io/discord/495602800802398212.svg?colorB=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord"></a>
@@ -172,5 +172,5 @@ Hop into our [Discord server](https://discord.gg/Q3ZhdRJ) for lively debates, bu
 
 [🐛 Found a bug?](https://github.com/Valhalla-Development/DiscordGPT/issues/new/choose) | [💡 Have an idea?](https://github.com/Valhalla-Development/DiscordGPT/issues/new/choose) | [🤔 Need help?](https://discord.gg/Q3ZhdRJ)
 
-<a href="#-discordgpt-the-ultimate-ai-companion-for-your-server-">🔝 Back to Top</a>
+<a href="#readme-top">🔝 Back to Top</a>
 </div>
