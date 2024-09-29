@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://share.valhalladev.org/u/DiscordGPT.png" width="100%" alt="DiscordGPT Banner">
 
-# 🤖 DiscordGPT: The Ultimate AI Companion for Your Server 🚀
+## 🤖 DiscordGPT: The Ultimate AI Companion for Your Server 🚀
 
   <p>
     <a href="https://discord.gg/Q3ZhdRJ"><img src="https://img.shields.io/discord/495602800802398212.svg?colorB=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord"></a>
