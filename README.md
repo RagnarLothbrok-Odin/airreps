@@ -3,6 +3,10 @@
 
 ## 🤖 DiscordGPT: The Ultimate AI Companion for Your Server 🚀
 
+DiscordGPT is not your average chatbot – it's a powerhouse of AI-driven conversation, seamlessly integrated into your Discord server. Powered by OpenAI's cutting-edge technology, it brings the magic of advanced language models right to your fingertips. Whether you're looking to spice up your server with intelligent chat, get instant answers to complex questions, or just have a witty AI companion, DiscordGPT is your ticket to the future of online interaction. Get ready to elevate your Discord experience to unprecedented heights!
+
+## test
+
   <p>
     <a href="https://discord.gg/Q3ZhdRJ"><img src="https://img.shields.io/discord/495602800802398212.svg?colorB=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord"></a>
     <a href="https://github.com/Valhalla-Development/DiscordGPT/stargazers"><img src="https://img.shields.io/github/stars/Valhalla-Development/DiscordGPT.svg?style=for-the-badge&color=yellow" alt="Stars"></a>
