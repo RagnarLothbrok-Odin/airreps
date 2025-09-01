@@ -10,7 +10,7 @@ We're delighted by your interest in contributing to our project. To streamline y
 For ease of managing your contributions, we recommend using [GitHub Desktop](https://desktop.github.com/), a GUI-based GitHub client.
 :::
 
-## Forking and Cloning the Repository
+## Forking and aa the Repository
 
 Follow these steps to fork the repository, clone it, create a new branch, and set up your local development environment:
 
