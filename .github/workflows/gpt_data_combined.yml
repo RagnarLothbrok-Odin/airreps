@@ -73,9 +73,6 @@ jobs:
       - name: Enable Corepack
         run: corepack enable
 
-      - name: Prepare Yarn with Corepack
-        run: corepack prepare yarn@${{ secrets.YARN_VERSION }} --activate
-
       - name: Install Dependencies
         run: yarn add openai
 
