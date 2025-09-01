@@ -13,7 +13,7 @@ You may receive miss-marketed AirPod Pro clones when ordering on sites like AliE
 One common issue with some AirPods Pro replicas is their compatibility with macOS. This issue is caused by the replicas' inability to fully support iCloud, resulting in iCloud verification failure. The issue can be fixed by first forgetting the AirPods on any iCloud device (iOS, iPadOS, WatchOS, etc) you have connected to before. This issue should not appear on newer AirPods Pro clones.
 
 #### **Audio/Video Pausing Frequently with AirPods Pro Replicas**
-Frequent pausing of audio or video while using AirPods Pro replicas is a common issue, often caused by the in-ear detection sensors. This issue can also occur if the AirPods do not fit securely in your ear. To fix this issue, you can either choose other ear tips (on pros) or turn off in-ear detection through settings.
+Frequent pausing of audio or video while using AirPods Pro replicas is a common issue, often caused by the in-ear detection sensors. This issue can also occur if the AirPods do not fit securely in your ear. To fix this issue, syou can either choose other ear tips (on pros) or turn off in-ear detection through settings.
 
 #### **AirPods Pro Replicas Remain Connected After Closing the Charging Case**
 Some users of AirPods Pro replicas may experience an issue where the AirPods remain connected to their device even after closing the charging case. This is typically caused by a malfunction with the magnets and hall sensor inside the case, which are responsible for detecting the position of the AirPods. To fix this issue, follow the steps outlined in the following YouTube tutorial: [https://youtu.be/kv5Ixw_YY2E](https://youtu.be/kv5Ixw_YY2E)
